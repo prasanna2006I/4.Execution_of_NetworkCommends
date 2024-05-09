@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+# NAME:PRASANNA I
+# REG NO:212223220079
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +29,14 @@ This commands includes
 <BR>
 
 ## Output
+
+### CLIENT:
+![image](https://github.com/prasanna2006I/4.Execution_of_NetworkCommends/assets/150161282/68f49b18-268b-412f-bf8d-052d04fc1333)
+### SERVER:
+![image](https://github.com/prasanna2006I/4.Execution_of_NetworkCommends/assets/150161282/f576d800-f2ea-4810-b0f5-80ede270e1ca)
+### TRACERT COMMAND:
+![image](https://github.com/prasanna2006I/4.Execution_of_NetworkCommends/assets/150161282/10d08091-f9c2-4126-8829-aacf30019eff)
+
 
 ## Result
 Thus Execution of Network commands Performed 
